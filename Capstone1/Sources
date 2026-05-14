@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artificial Intelligence and How It Will Impact The Future</title>
+	<link rel="stylesheet" href="css/main.css">
+    
+</head>
+<body>
+	<header>
+        <a href="/Capstone" class="header-link">
+            <h1>Artificial Intelligence Newsletter</h1>
+        </a>
+    </header>
+
+    	<nav>
+		<ul class="navbar">
+			<li class="dropdown">
+				<a href="#">Concerns</a>
+				<ul class="dropdown-content">
+					<li><a href="Ethical Concerns">Ethical Concerns</a></li>
+					<li><a href="Enviornmental Concerns">Enviornmental Concerns</a></li>
+				</ul>
+			</li>
+			
+			<li class="dropdown">
+				<a href="#">Platforms</a>
+				<ul class="dropdown-content">
+					<li><a href="Claude.html">Claude</a></li>
+					<li><a href="ChatGPT">ChatGPT</a></li>
+					<li><a href="Google Gemini">Google Gemini</a></li>
+					<li><a href="Microsoft Copilot">Microsoft Copilot</a></li>
+					<li><a href="Deekseek Seedance">Deepseek Seedance</a></li>
+				</ul>
+			</li>
+
+			<li class="dropdown">
+				<a href="#">Job Outlook</a>
+				<ul class="dropdown-content">
+					<li><a href="Jobs Effected">Jobs Effected</a></li>
+					<li><a href="Safe Jobs">Safe Jobs</a></li>
+					<li><a href="What Industry Leaders Predict">What Industry Leaders Predict</a></li>
+				</ul>
+			</li>
+				
+		
+		</ul>
+	</nav>
+    <h2>Sources</h2>
+     <main>
+
+    <ul>
+
+      <li>
+        <a href="https://www.uscareerinstitute.edu/blog/65-jobs-with-the-lowest-risk-of-automation-by-ai-and-robots" target="_blank">
+          65 Jobs With the Lowest Risk of Automation by AI and Robots
+        </a>
+        <div class="source-description">
+          U.S. Career Institute article discussing careers least likely to be replaced by AI and automation.
+        </div>
+      </li>
+
+      <li>
+        <a href="https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases" target="_blank">
+          UNESCO – AI Ethics Case Studies
+        </a>
+        <div class="source-description">
+          Real-world examples and ethical discussions surrounding artificial intelligence implementation.
+        </div>
+      </li>
+
+      <li>
+        <a href="https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117" target="_blank">
+          MIT – Generative AI Environmental Impact Explained
+        </a>
+        <div class="source-description">
+          MIT News article examining the environmental costs and energy demands of generative AI systems.
+        </div>
+      </li>
+
+      <li>
+        <a href="https://www.gao.gov/products/gao-25-107172" target="_blank">
+          U.S. Government Accountability Office – Artificial Intelligence Report
+        </a>
+        <div class="source-description">
+          Government report covering opportunities, risks, and oversight challenges related to AI.
+        </div>
+      </li>
+
+      <li>
+        <a href="https://www.ibm.com/think/topics/chatgpt" target="_blank">
+          IBM – What is ChatGPT?
+        </a>
+        <div class="source-description">
+          IBM overview explaining ChatGPT, large language models, and generative AI technology.
+        </div>
+      </li>
+
+      <li>
+        <a href="https://www.microsoft.com/en-us/microsoft-copilot/copilot-101/what-is-copilot" target="_blank">
+          Microsoft – What is Copilot?
+        </a>
+        <div class="source-description">
+          Introduction to Microsoft Copilot and AI productivity tools.
+        </div>
+      </li>
+
+      <li>
+        <a href="https://www.datacamp.com/blog/seedance-2-0" target="_blank">
+          DataCamp – Seedance 2.0
+        </a>
+        <div class="source-description">
+          Overview of Seedance 2.0 and developments in AI video generation technology.
+        </div>
+      </li>
+
+      <li>
+        <a href="https://www.anthropic.com/research/labor-market-impacts" target="_blank">
+          Anthropic – Labor Market Impacts of AI
+        </a>
+        <div class="source-description">
+          Research on how artificial intelligence may reshape employment and the workforce.
+        </div>
+      </li>
+
+    </ul>
+  </main>
+  <footer>
+		<p>&copy; 2026 Atificial Intelligence Newsletter.
+			 All Rights Reserved</p>
+	</footer>
+</body>
+</html>

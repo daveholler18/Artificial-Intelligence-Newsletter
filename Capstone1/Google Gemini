@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artificial Intelligence and How It Will Impact The Future</title>
+	<link rel="stylesheet" href="css/main.css">
+    
+</head>
+<body>
+	<header>
+        <a href="/Capstone" class="header-link">
+            <h1>Artificial Intelligence Newsletter</h1>
+        </a>
+    </header>
+
+    <nav>
+         <ul class="navbar">
+				<li class="dropdown">
+				<a href="#">Concerns</a>
+				<ul class="dropdown-content">
+					<li><a href="Ethical Concerns">Ethical Concerns</a></li>
+					<li><a href="Enviornmental Concerns">Enviornmental Concerns</a></li>
+				</ul>
+			</li>
+			
+			
+			<li class="dropdown">
+				<a href="#">Platforms</a>
+				<ul class="dropdown-content">
+					<li><a href="Claude.html">Claude</a></li>
+					<li><a href="ChatGPT">ChatGPT</a></li>
+					<li><a href="Google Gemini">Google Gemini</a></li>
+					<li><a href="Microsoft Copilot">Microsoft Copilot</a></li>
+					<li><a href="Seedance 2.0">Seedance 2.0</a></li>
+				</ul>
+			</li>
+
+			<li class="dropdown">
+				<a href="#">Job Outlook</a>
+				<ul class="dropdown-content">
+					<li><a href="Jobs Effected">Jobs Effected</a></li>
+					<li><a href="Safe Jobs">Safe Jobs</a></li>
+					<li><a href="What Industry Leaders Predict">What Industry Leaders Predict</a></li>
+				</ul>
+			</li>
+				
+		
+		</ul>
+	</nav>
+
+	  <div class="container">
+        <div class="left-side">
+	<h2>Google Gemini</h2>
+			<p1>
+				Google Gemini is Google’s Generative AI Assistant and chat bot platform. 
+				It was designed to compete with the likes of ChatGPT. The main difference
+				is that its is integrated deeply into all of the other services that
+				Google offers likes Gmail and Docs to name a few. Gemini is a 
+				multimodal AI there fore it can understand and generate different
+				forms of information. This information includes text, images, audio, code 
+				and video. It can manage processes across all of their services without 
+				having to switch back and fourth between applications. Gemini can be described
+				 as an AI that covers almost anything, especially if you use their other services.
+			</p1>
+		<h2>Popular Uses</h2>
+			<ul>
+            	<li>Deep Research</li>
+         		<li>AI Assitants (Gems)</li>
+            	<li>Long-Context Processing</li>
+            	<li>Image and Video Generation</li>
+        	</ul> 
+		</div>
+
+	<img src="CapstoneImages/Gemini.png" alt="GeminiLogo">
+	
+	</div>
+	<a href="Sources">Sources</a>
+	<footer>
+		<p>&copy; 2026 Atificial Intelligence Newsletter.
+			 All Rights Reserved</p>
+	</footer>
+
+	</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artificial Intelligence and How It Will Impact The Future</title>
+	<link rel="stylesheet" href="css/main.css">
+    
+</head>
+<body>
+	<header>
+        <a href="/Capstone" class="header-link">
+            <h1>Artificial Intelligence Newsletter</h1>
+        </a>
+    </header>
+    	<nav>
+		<ul class="navbar">
+			<li class="dropdown">
+				<a href="#">Concerns</a>
+				<ul class="dropdown-content">
+					<li><a href="Ethical Concerns">Ethical Concerns</a></li>
+					<li><a href="Enviornmental Concerns">Enviornmental Concerns</a></li>
+				</ul>
+			</li>
+			
+			<li class="dropdown">
+				<a href="#">Platforms</a>
+				<ul class="dropdown-content">
+					<li><a href="Claude.html">Claude</a></li>
+					<li><a href="ChatGPT">ChatGPT</a></li>
+					<li><a href="Google Gemini">Google Gemini</a></li>
+					<li><a href="Microsoft Copilot">Microsoft Copilot</a></li>
+					<li><a href="Deekseek Seedance">Deepseek Seedance</a></li>
+				</ul>
+			</li>
+
+			<li class="dropdown">
+				<a href="#">Job Outlook</a>
+				<ul class="dropdown-content">
+					<li><a href="Jobs Effected">Jobs Effected</a></li>
+					<li><a href="Safe Jobs">Safe Jobs</a></li>
+					<li><a href="What Industry Leaders Predict">What Industry Leaders Predict</a></li>
+				</ul>
+			</li>
+				
+		
+		</ul>
+	</nav>
+    <div class="container">
+        <div class="left-side">
+		<h2>Seedance 2.0</h2>
+			<p1>
+				Seedance 2.0 is new AI video generation that was develop 
+				by ByteDance, the company that created TikTok. The model 
+				uses multiple sources of input to in order to create it’s 
+				output including text prompts, images, video clips, and 
+				audio. This is what makes Seedance 2.0 stand out. Previous 
+				AI videos generators only used text prompts because Seedance 
+				2.0 uses multiple prompts, the end results come out much better.
+				 There are less noticeable errors when it comes to the physics 
+				 because there is a more synchronization when it between the
+				  multiple inputs than just a text prompt. For example the 
+				  lip movements line up better in the final product when a 
+				  character is speaking. When this was released earlier this 
+				  year, the results looked like high budget Hollywood movies.
+				   Seedance 2.0 allows users to act as if they are a director 
+				   producing an actual film. This model is great for anyone looking
+				    to make quick videos without using a full production team. 
+
+			</p1>
+
+		<h2>Popular Uses:</h2>
+			<ul>
+            	<li>Marketing</li>
+         		<li>Film Making</li>
+            	<li>Protyping Scenes</li>
+            	<li>Rapid Creative Production</li>
+        </ul> 
+
+			
+
+
+		</div>
+
+	<img src="CapstoneImages/Seedance2.0.png" alt="Seedance2.0Logo">
+	
+	  <a href="Sources">Sources</a>
+	 <footer>
+		<p>&copy; 2026 Atificial Intelligence Newsletter.
+			 All Rights Reserved</p>
+	</footer>
+</body>
+</html>

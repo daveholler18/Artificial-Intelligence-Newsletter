@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artificial Intelligence and How It Will Impact The Future</title>
+	<link rel="stylesheet" href="css/main.css">
+    
+</head>
+<body>
+	<header>
+        <a href="/Capstone" class="header-link">
+            <h1>Artificial Intelligence Newsletter</h1>
+        </a>
+    </header>
+    	<nav>
+		<ul class="navbar">
+			<li class="dropdown">
+				<a href="#">Concerns</a>
+				<ul class="dropdown-content">
+					<li><a href="Ethical Concerns">Ethical Concerns</a></li>
+					<li><a href="Enviornmental Concerns">Enviornmental Concerns</a></li>
+				</ul>
+			</li>
+			
+			<li class="dropdown">
+				<a href="#">Platforms</a>
+				<ul class="dropdown-content">
+					<li><a href="Claude.html">Claude</a></li>
+					<li><a href="ChatGPT">ChatGPT</a></li>
+					<li><a href="Google Gemini">Google Gemini</a></li>
+					<li><a href="Microsoft Copilot">Microsoft Copilot</a></li>
+					<li><a href="Deekseek Seedance">Deepseek Seedance</a></li>
+				</ul>
+			</li>
+
+			<li class="dropdown">
+				<a href="#">Job Outlook</a>
+				<ul class="dropdown-content">
+					<li><a href="Jobs Effected">Jobs Effected</a></li>
+					<li><a href="Safe Jobs">Safe Jobs</a></li>
+					<li><a href="What Industry Leaders Predict">What Industry Leaders Predict</a></li>
+				</ul>
+			</li>
+				
+		
+		</ul>
+	</nav>
+
+	  <div class="container">
+        <div class="left-side">
+	<h2>Enviornmental Concerns</h2>
+			<p1>
+			The impact that AI is having on productivity is undeniable. 
+			You see it everywhere now and people are starting to use it
+			as often as a traditional Google search. Their are positives 
+			to the rise of AI but so far it is taking it’s tool on the
+			environment. 
+			</p1>
+			<br>
+
+			<p1>
+				Training AI models alone take an immense amount of computer 
+				power, a single ChatGPT prompt takes more than 5 times the 
+				amount of electricity than a Google search takes. The other
+				problem with this is that the models have short-shelf lives 
+				therefore the energy used to train the current model will 
+				essentially be wasted as soon as the new one comes out. The 
+				amount of tera-watt hours used in 2026 is expected to be 1,050.
+				Comparing the data centers to countries; that number would 
+				make data centers the 5th largest consumer of electricity in 
+				the world. 
+			</p1>
+			<br>
+
+			<p1>
+				The rise of Data Centers also is having a negative effect. 
+				The amount of energy needed to run these center is so high 
+				that they can cause grid instability. Due to this grid 
+				operators use backup diesel generators in order to handle the 
+				fluctuations. Inside of the data centers use chilled water to
+				prevent the hardware from over heating, roughly 2 liters for 
+				every kilowatt hour, which results in a strain on the local 
+				water supply. Intensive mining is also used to obtain the raw
+				materials need to make the GPU’s that are used inside of the
+				data centers. Lastly, the impact of all of these raw materials
+				and GPU’s being shipped all over the world is often overlooked
+				and not talked about. The carbon footprint of this industry is 
+				massive and most of the time companies don’t report detailed 
+				data on water and energy use. 
+			</p1>
+				
+		</div>
+		<img src="CapstoneImages/Enviornmental.jpeg" alt="Enviornmental">
+
+			
+	</div>
+	    <a href="Sources">Sources</a>
+	<footer>
+		<p>&copy; 2026 Atificial Intelligence Newsletter.
+			 All Rights Reserved</p>
+	</footer>
+</body>
+</html>

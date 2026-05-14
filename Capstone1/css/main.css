@@ -1,0 +1,89 @@
+h1 {
+    color: Silver;
+    font-weight: bold;
+     font-size: 250%;
+    padding-left: 20%;
+}
+
+h2 {
+    color: silver;
+    font-weight: bold;
+}
+body{
+    background-image: url("AIBackground.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    Background-size: cover;
+    background-position: center;
+}
+.navbar {
+    list-style-type: none;
+    background-color: silver;
+    display: flex;
+}
+.navbar li {
+    position: relative; /*Anchor for the dropdown*/
+}
+.navbar a {
+    display: block;
+    color: blue;
+    padding: 20px 100px;
+    text-decoration: none;
+}
+
+.headerlink{
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+/* hide dropdown menu by default*/
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    z-index: 1;
+}
+/*show the drop down on hover*/
+.dropdown:hover .dropdown-content{
+    display:block;
+    background-color: white;
+}
+/*basic styling for dropdown links*/
+.dropdown-content a {
+    padding: 12px 16px;
+}
+.container{
+    display: flex; /*use flexbox for side-by-side layout*/
+    justify-content: space-between; /*pushes content to sides*/
+}
+.left-side{
+    width: 45%;
+    text-align: left;
+}
+.right-side{
+    width: 45%;
+    text-align: right;
+}
+img{
+    scale: 100%;
+    height: 200px;
+}
+p1 {
+    color: white;
+}
+footer{
+    color: white;
+}
+li{
+    color:white
+}
+.custom-resize {
+    max-width: 600px; /* Limits width */
+    height: auto;     /* Maintains aspect ratio */
+}

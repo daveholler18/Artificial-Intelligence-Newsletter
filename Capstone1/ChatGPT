@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artificial Intelligence and How It Will Impact The Future</title>
+	<link rel="stylesheet" href="css/main.css">
+    
+</head>
+<body>
+	<header>
+        <a href="/Capstone" class="header-link">
+            <h1>Artificial Intelligence Newsletter</h1>
+        </a>
+    </header>
+	
+
+
+	<nav>
+		<ul class="navbar">
+			<li class="dropdown">
+				<a href="#">Concerns</a>
+				<ul class="dropdown-content">
+					<li><a href="Ethical Concerns">Ethical Concerns</a></li>
+					<li><a href="Enviornmental Concerns">Enviornmental Concerns</a></li>
+				</ul>
+			</li>
+			
+			<li class="dropdown">
+				<a href="#">Platforms</a>
+				<ul class="dropdown-content">
+					<li><a href="Claude.html">Claude</a></li>
+					<li><a href="ChatGPT">ChatGPT</a></li>
+					<li><a href="Google Gemini">Google Gemini</a></li>
+					<li><a href="Microsoft Copilot">Microsoft Copilot</a></li>
+					<li><a href="Seedance 2.0">Seedance 2.0</a></li>
+				</ul>
+			</li>
+
+			<li class="dropdown">
+				<a href="#">Job Outlook</a>
+				<ul class="dropdown-content">
+					<li><a href="Jobs Effected">Jobs Effected</a></li>
+					<li><a href="Safe Jobs">Safe Jobs</a></li>
+					<li><a href="What Industry Leaders Predict">What Industry Leaders Predict</a></li>
+				</ul>
+			</li>
+				
+		
+		</ul>
+	</nav>
+	
+	  <div class="container">
+        <div class="left-side">
+	<h2>ChatGPT</h2>
+			<p1>
+				OpenAI was founded by Sam Altman, Elon Musk, and Peter Thiel in 2015.
+				ChatGPT was developed by OpenAI and first released to the public in 
+				November of 2022. ChatGPT is a generative AI chatbot that is a multimodal
+				that handles text, audio, and images. It takes user inputs to create 
+				desired outputs using a two-stage process. The input is Language Understanding,
+				which converts user input into numerical representations. The output is 
+				Response Generation, which predicts the next best response based on patterns 
+				learned during training. The training method used by ChatGpt is Reinforcement 
+				Learning from Human Feedback. This type of learning uses human feedback received 
+				when users rate the responses. Due to the use of this training method ChatGPT
+				recognizes patterns so it does not always output facts. When this occurs it 
+				is called a hallucination and the AI confidently states false information. 
+				Despite this ChatGPT is definitely the one of front runners in AI, offering 
+				a plethora of different models that are up to par or better than it's competitors
+				products. For example Codex is considered one of the best coding assitants in the 
+				whole industry producing results that are blowing people away. 
+			</p1>
+		<h2>Popular Uses:</h2>
+		    <ul>
+            	<li>Content and Marketing</li>
+            	<li>Coding</li>
+            	<li>Custom GPT's (ex. Career Coach)</li>
+				<li>Market Analysis</li>
+        	</ul> 
+		</div>
+
+	<img src="CapstoneImages/ChatGpt.png" width="400">
+
+		</div>
+	    <a href="Sources">Sources</a>
+	<footer>
+		<p>&copy; 2026 Atificial Intelligence Newsletter.
+			 All Rights Reserved</p>
+	</footer>
+</body>
+</html>
+	
+	
+

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artificial Intelligence and How It Will Impact The Future</title>
+	<link rel="stylesheet" href="css/main.css">
+    
+</head>
+<body>
+	<header>
+        <a href="/Capstone" class="header-link">
+            <h1>Artificial Intelligence Newsletter</h1>
+        </a>
+    </header>
+    
+	
+
+
+	<nav>
+        <ul class="navbar">
+			<li class="dropdown">
+				<a href="#">Concerns</a>
+				<ul class="dropdown-content">
+					<li><a href="Ethical Concerns">Ethical Concerns</a></li>
+					<li><a href="Enviornmental Concerns">Enviornmental Concerns</a></li>
+				</ul>
+			</li>
+			
+			<li class="dropdown">
+				<a href="#">Platforms</a>
+				<ul class="dropdown-content">
+					<li><a href="Claude.html">Claude</a></li>
+					<li><a href="ChatGPT">ChatGPT</a></li>
+					<li><a href="Google Gemini">Google Gemini</a></li>
+					<li><a href="Microsoft Copilot">Microsoft Copilot</a></li>
+					<li><a href="Seedance 2.0">Seedance 2.0</a></li>
+				</ul>
+			</li>
+
+			<li class="dropdown">
+				<a href="#">Job Outlook</a>
+				<ul class="dropdown-content">
+					<li><a href="Jobs Effected">Jobs Effected</a></li>
+					<li><a href="Safe Jobs">Safe Jobs</a></li>
+					<li><a href="What Industry Leaders Predict">What Industry Leaders Predict</a></li>
+				</ul>
+			</li>
+				
+		
+		</ul>
+	</nav>
+        
+
+   <div class="container">
+        <div class="left-side">
+             
+    <H2>Microsoft CoPilot</H2>
+        <P1>
+
+            According to Microsoft, “A copilot is a conversational, 
+            AI-powered assistant that helps boost productivity and 
+            streamline workflows by offering contextual assistance, 
+            automating routine tasks, and analyzing data.”   
+
+            Copilot was made to boost productivity, simplify automation,
+            and provide contextual intelligence in Windows, Bing, Edge,
+            and Microsoft 365. It is used in different ways across the
+            Microsoft family of products. For example in Word it can 
+            help you save time on writing tasks by helping you draft 
+            and revise your work. While in Microsoft Azure it can provide
+             AI-assisted code suggestions on project such as developing apps. </P1>
+
+     <H2>Popular Uses: </H2>
+        <ul>
+            <li>Creation</li>
+            <li>Data Analysis</li>
+            <li>Project Management</li>
+            <li>Communication</li>
+        </ul> 
+           
+
+            <p1>Copilot uses Natural Language Processing and Machine Learning
+             Algorithms. This allows it to understand and respond to commands 
+             through everyday language and analyze activities  to provide
+              better outputs based on the users previous actions. Copilot 
+              aims to reduce manual effort, enhance the decision-making
+               process. </p1>
+
+        </div>
+	
+        <img src="CapstoneImages/Copilot.png" width="400" height="600">
+        <a href="Sources">Sources</a>
+
+        <footer>
+		<p>&copy; 2026 Atificial Intelligence Newsletter.
+			 All Rights Reserved</p>
+	</footer>
+</body>
+</html>

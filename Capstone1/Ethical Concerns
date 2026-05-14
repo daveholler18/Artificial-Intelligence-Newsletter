@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artificial Intelligence and How It Will Impact The Future</title>
+	<link rel="stylesheet" href="css/main.css">
+    
+</head>
+<body>
+	<header>
+        <a href="/Capstone" class="header-link">
+            <h1>Artificial Intelligence Newsletter</h1>
+        </a>
+    </header>
+    	<nav>
+		<ul class="navbar">
+			<li class="dropdown">
+				<a href="#">Concerns</a>
+				<ul class="dropdown-content">
+					<li><a href="Ethical Concerns">Ethical Concerns</a></li>
+					<li><a href="Enviornmental Concerns">Enviornmental Concerns</a></li>
+				</ul>
+			</li>
+			
+			<li class="dropdown">
+				<a href="#">Platforms</a>
+				<ul class="dropdown-content">
+					<li><a href="Claude.html">Claude</a></li>
+					<li><a href="ChatGPT">ChatGPT</a></li>
+					<li><a href="Google Gemini">Google Gemini</a></li>
+					<li><a href="Microsoft Copilot">Microsoft Copilot</a></li>
+					<li><a href="Deekseek Seedance">Deepseek Seedance</a></li>
+				</ul>
+			</li>
+
+			<li class="dropdown">
+				<a href="#">Job Outlook</a>
+				<ul class="dropdown-content">
+					<li><a href="Jobs Effected">Jobs Effected</a></li>
+					<li><a href="Safe Jobs">Safe Jobs</a></li>
+					<li><a href="What Industry Leaders Predict">What Industry Leaders Predict</a></li>
+				</ul>
+			</li>
+				
+		
+		</ul>
+	</nav>
+
+	  <div class="container">
+        <div class="left-side">
+		<h2>Ethical Concerns</h2>
+			<p1>
+			If you were to take a deep dive into all of the 
+			potential ethical issues that can come from with
+			AI you can end up in a deep rabbit hole. The 
+			issues could range from a home network security 
+			to international espionage and cyber attacks. 
+			The list goes on and on. It’s being used across 
+			all fields and we need to really take a close 
+			look at what we are allowing it to do. For example
+			it is being used in the justice system when law 
+			firms are preparing for trial.This could lead to 
+			things like illegal surveillance practices for data
+			gathering, cause new concerns for fairness if the
+			AI is biased which it is has been known to be, 
+			along with countless other concerns. If the AI 
+			was to make a mistake going over the material 
+			it could result in the wrong person being either
+			convicted or not convicted. That would be a huge 
+			consequence. 
+			</p1>
+
+		</div>
+		<img src="CapstoneImages/Ethical.jpeg" alt="EthicalChart">
+
+	  </div>
+	    <a href="Sources">Sources</a>
+	<footer>
+		<p>&copy; 2026 Atificial Intelligence Newsletter.
+			 All Rights Reserved</p>
+	</footer>
+	</body>
+</html>
